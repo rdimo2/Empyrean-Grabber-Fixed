@@ -1,0 +1,4 @@
+**/built*
+**/tests
+**/buildenv
+**/__pycache__
